@@ -1,4 +1,1 @@
-
-#Please enter Version.
-
-version= 1.0.0.20000
+1.0.0.20000
