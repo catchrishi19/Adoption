@@ -1,0 +1,3 @@
+Imaging.WinForms.dll
+Imaging.WPF.dll
+Interop.Utilities.dll
